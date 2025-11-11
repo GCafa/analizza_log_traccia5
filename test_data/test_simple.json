@@ -1,0 +1,222 @@
+[
+   [
+      "3/11/2021 18:42",
+      1,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Log",
+      "Visualizzato report log",
+      "The user with id '7' viewed the log report for the course with id '488'.",
+      "web",
+      "192.168.103.208"
+   ],
+   [
+      "3/11/2021 18:42",
+      1,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '7' viewed the course with id '488'.",
+      "web",
+      "192.168.103.208"
+   ],
+   [
+      "3/11/2021 16:24",
+      2,
+      "File: Tracce d'esame svolte",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2465' viewed the 'resource' activity with course module id '25073'.",
+      "web",
+      "5.90.35.14"
+   ],
+   [
+      "3/11/2021 16:23",
+      2,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '2465' viewed the course with id '488'.",
+      "web",
+      "5.90.35.14"
+   ],
+   [
+      "2/11/2021 10:32",
+      4,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Disiscritto utente dal corso",
+      "The user with id '4933' unenrolled the user with id '4933' using the enrolment method 'self' from the course with id '488'.",
+      "web",
+      "51.179.102.188"
+   ],
+   [
+      "2/11/2021 10:32",
+      4,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Eliminata valutazione",
+      "The user with id '4933' deleted the grade with id '66042' for the user with id '4933' for the grade item with id '1702'.",
+      "web",
+      "51.179.102.188"
+   ],
+   [
+      "2/11/2021 10:32",
+      4,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Eliminata valutazione",
+      "The user with id '4933' deleted the grade with id '65934' for the user with id '4933' for the grade item with id '1701'.",
+      "web",
+      "51.179.102.188"
+   ],
+   [
+      "2/11/2021 10:32",
+      4,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Eliminata valutazione",
+      "The user with id '4933' deleted the grade with id '65826' for the user with id '4933' for the grade item with id '1700'.",
+      "web",
+      "51.179.102.188"
+   ],
+   [
+      "2/11/2021 10:32",
+      4,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '4933' viewed the course with id '488'.",
+      "web",
+      "51.179.102.188"
+   ],
+   [
+      "2/11/2021 09:45",
+      5,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '2312' viewed the course with id '488'.",
+      "web",
+      "79.16.45.244"
+   ],
+   [
+      "1/11/2021 20:08",
+      5,
+      "File: Lezione 10 Modello di esecuzione e strumenti di sviluppo",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2312' viewed the 'resource' activity with course module id '18630'.",
+      "web",
+      "79.16.45.244"
+   ],
+   [
+      "1/11/2021 15:17",
+      3,
+      "File: Esoneri 2016",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '2441' updated the completion state for the course module with id '18695' for the user with id '2441'.",
+      "web",
+      "2.42.134.123"
+   ],
+   [
+      "1/11/2021 15:17",
+      3,
+      "File: Esoneri 2016",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '2441' updated the completion state for the course module with id '18695' for the user with id '2441'.",
+      "web",
+      "2.42.134.123"
+   ],
+   [
+      "1/11/2021 15:17",
+      3,
+      "File: Esoneri 2016",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2441' viewed the 'resource' activity with course module id '18695'.",
+      "web",
+      "2.42.134.123"
+   ],
+   [
+      "1/11/2021 15:17",
+      3,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '2441' viewed the course with id '488'.",
+      "web",
+      "2.42.134.123"
+   ],
+   [
+      "31/10/2021 21:20",
+      3,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '2441' viewed the course with id '488'.",
+      "web",
+      "2.42.134.123"
+   ],
+   [
+      "31/10/2021 19:02",
+      1,
+      "Quiz: Prova Gruppo A e B (ore 11.30)",
+      "Quiz",
+      "Visualizzato riepilogo del quiz",
+      "The user with id '7' has viewed the summary for the attempt with id '37878' belonging to the user with id '7' for the quiz with course module id '21274'.",
+      "web",
+      "79.19.222.61"
+   ],
+   [
+      "31/10/2021 19:02",
+      1,
+      "Quiz: Prova Gruppo A e B (ore 11.30)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '7' has viewed the attempt with id '37878' belonging to the user with id '7' for the quiz with course module id '21274'.",
+      "web",
+      "79.19.222.61"
+   ],
+   [
+      "29/10/2021 16:56",
+      6,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Eliminata valutazione",
+      "The user with id '4714' deleted the grade with id '65773' for the user with id '4714' for the grade item with id '1700'.",
+      "web",
+      "5.89.234.243"
+   ],
+   [
+      "29/10/2021 16:56",
+      6,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Eliminata valutazione",
+      "The user with id '4714' deleted the grade with id '61890' for the user with id '4714' for the grade item with id '1602'.",
+      "web",
+      "5.89.234.243"
+   ],
+   [
+      "29/10/2021 16:56",
+      6,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Eliminata valutazione",
+      "The user with id '4714' deleted the grade with id '61786' for the user with id '4714' for the grade item with id '1601'.",
+      "web",
+      "5.89.234.243"
+   ],
+   [
+      "29/10/2021 16:56",
+      6,
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Eliminata valutazione",
+      "The user with id '4714' deleted the grade with id '61682' for the user with id '4714' for the grade item with id '1600'.",
+      "web",
+      "5.89.234.243"
+   ]
+]

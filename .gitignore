@@ -1,0 +1,5 @@
+# auxiliary files that should not be updated on remote repository
+risultati/
+__pycache__/
+.idea
+.DS_Store

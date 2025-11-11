@@ -1,0 +1,982 @@
+[
+   [
+      "3/11/2021 18:42",
+      "00001",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Log",
+      "Visualizzato report log",
+      "The user with id '7' viewed the log report for the course with id '488'.",
+      "web",
+      "192.168.103.208"
+   ],
+   [
+      "3/11/2021 18:42",
+      "00001",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Log",
+      "Visualizzato report log",
+      "The user with id '7' viewed the log report for the course with id '488'.",
+      "web",
+      "192.168.103.208"
+   ],
+   [
+      "3/11/2021 18:42",
+      "00001",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '7' viewed the course with id '488'.",
+      "web",
+      "192.168.103.208"
+   ],
+   [
+      "3/11/2021 16:24",
+      "00002",
+      "File: Tracce d'esame svolte",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2465' viewed the 'resource' activity with course module id '25073'.",
+      "web",
+      "5.90.35.14"
+   ],
+   [
+      "2/11/2021 10:32",
+      "00003",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Disiscritto utente dal corso",
+      "The user with id '4933' unenrolled the user with id '4933' using the enrolment method 'self' from the course with id '488'.",
+      "web",
+      "51.179.102.188"
+   ],
+   [
+      "2/11/2021 10:32",
+      "00003",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Eliminata valutazione",
+      "The user with id '4933' deleted the grade with id '66042' for the user with id '4933' for the grade item with id '1702'.",
+      "web",
+      "51.179.102.188"
+   ],
+   [
+      "2/11/2021 09:45",
+      "00004",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '2312' viewed the course with id '488'.",
+      "web",
+      "79.16.45.244"
+   ],
+   [
+      "1/11/2021 15:17",
+      "00005",
+      "File: Esoneri 2016",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2441' viewed the 'resource' activity with course module id '18695'.",
+      "web",
+      "2.42.134.123"
+   ],
+   [
+      "1/11/2021 15:17",
+      "00005",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '2441' viewed the course with id '488'.",
+      "web",
+      "2.42.134.123"
+   ],
+   [
+      "31/10/2021 21:21",
+      "00005",
+      "File: Esoneri 2017",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '2441' updated the completion state for the course module with id '18696' for the user with id '2441'.",
+      "web",
+      "2.42.134.123"
+   ],
+   [
+      "31/10/2021 21:21",
+      "00005",
+      "File: Esoneri 2017",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '2441' updated the completion state for the course module with id '18696' for the user with id '2441'.",
+      "web",
+      "2.42.134.123"
+   ],
+   [
+      "31/10/2021 19:02",
+      "00001",
+      "Quiz: Prova Gruppo A e B (ore 11.30)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '7' has viewed the attempt with id '37878' belonging to the user with id '7' for the quiz with course module id '21274'.",
+      "web",
+      "79.19.222.61"
+   ],
+   [
+      "31/10/2021 16:57",
+      "00002",
+      "File: Esoneri 2015",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '2465' updated the completion state for the course module with id '18694' for the user with id '2465'.",
+      "web",
+      "95.245.211.180"
+   ],
+   [
+      "31/10/2021 16:57",
+      "00002",
+      "File: Esoneri 2015",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2465' viewed the 'resource' activity with course module id '18694'.",
+      "web",
+      "95.245.211.180"
+   ],
+   [
+      "31/10/2021 13:09",
+      "00002",
+      "File: Esoneri 2016",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '2465' updated the completion state for the course module with id '18695' for the user with id '2465'.",
+      "web",
+      "95.245.211.180"
+   ],
+   [
+      "31/10/2021 13:09",
+      "00002",
+      "File: Esoneri 2016",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '2465' updated the completion state for the course module with id '18695' for the user with id '2465'.",
+      "web",
+      "95.245.211.180"
+   ],
+   [
+      "31/10/2021 13:09",
+      "00002",
+      "File: Esoneri 2016",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2465' viewed the 'resource' activity with course module id '18695'.",
+      "web",
+      "95.245.211.180"
+   ],
+   [
+      "31/10/2021 13:09",
+      "00002",
+      "File: Esoneri 2017",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2465' viewed the 'resource' activity with course module id '18696'.",
+      "web",
+      "95.245.211.180"
+   ],
+   [
+      "31/10/2021 13:08",
+      "00002",
+      "File: Esoneri 2017",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '2465' updated the completion state for the course module with id '18696' for the user with id '2465'.",
+      "web",
+      "95.245.211.180"
+   ],
+   [
+      "29/10/2021 16:56",
+      "00008",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Eliminata valutazione",
+      "The user with id '4714' deleted the grade with id '59861' for the user with id '4714' for the grade item with id '1450'.",
+      "web",
+      "5.89.234.243"
+   ],
+   [
+      "29/10/2021 16:56",
+      "00008",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Eliminata valutazione",
+      "The user with id '4714' deleted the grade with id '59863' for the user with id '4714' for the grade item with id '1416'.",
+      "web",
+      "5.89.234.243"
+   ],
+   [
+      "29/10/2021 16:56",
+      "00008",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Eliminata valutazione",
+      "The user with id '4714' deleted the grade with id '59862' for the user with id '4714' for the grade item with id '1410'.",
+      "web",
+      "5.89.234.243"
+   ],
+   [
+      "29/10/2021 16:56",
+      "00008",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Rimosso membro del gruppo",
+      "The user with id '4714' removed the user with id '4714' to the group with id '121'.",
+      "web",
+      "5.89.234.243"
+   ],
+   [
+      "29/10/2021 16:56",
+      "00008",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Revocato ruolo",
+      "The user with id '4714' unassigned the role with id '5' from the user with id '4714'.",
+      "web",
+      "5.89.234.243"
+   ],
+   [
+      "29/10/2021 16:56",
+      "00008",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '4714' viewed the course with id '488'.",
+      "web",
+      "5.89.234.243"
+   ],
+   [
+      "29/10/2021 16:56",
+      "00008",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato elenco utenti",
+      "The user with id '4714' viewed the list of users in the course with id '488'.",
+      "web",
+      "5.89.234.243"
+   ],
+   [
+      "28/10/2021 18:11",
+      "00002",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '2465' viewed the course with id '488'.",
+      "web",
+      "95.245.211.180"
+   ],
+   [
+      "28/10/2021 09:31",
+      "00009",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '4685' viewed the course with id '488'.",
+      "web",
+      "93.45.235.52"
+   ],
+   [
+      "26/10/2021 21:23",
+      "00005",
+      "File: Tracce d'esame svolte",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2441' viewed the 'resource' activity with course module id '25073'.",
+      "web",
+      "2.39.112.50"
+   ],
+   [
+      "26/10/2021 21:22",
+      "00005",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '2441' viewed the course with id '488'.",
+      "web",
+      "2.39.112.50"
+   ],
+   [
+      "26/10/2021 20:33",
+      "00005",
+      "File: Esoneri 2021 (parziale)",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2441' viewed the 'resource' activity with course module id '25071'.",
+      "web",
+      "2.39.112.50"
+   ],
+   [
+      "26/10/2021 20:13",
+      "00005",
+      "File: Tracce d'esame svolte",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2441' viewed the 'resource' activity with course module id '25073'.",
+      "web",
+      "2.39.112.50"
+   ],
+   [
+      "26/10/2021 20:12",
+      "00005",
+      "File: Esoneri 2021 (parziale)",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2441' viewed the 'resource' activity with course module id '25071'.",
+      "web",
+      "2.39.112.50"
+   ],
+   [
+      "26/10/2021 20:11",
+      "00005",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '2441' viewed the course with id '488'.",
+      "web",
+      "2.39.112.50"
+   ],
+   [
+      "26/10/2021 18:10",
+      "00010",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '4844' viewed the course with id '488'.",
+      "web",
+      "79.25.113.239"
+   ],
+   [
+      "26/10/2021 13:21",
+      "00011",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '759' viewed the course with id '488'.",
+      "web",
+      "93.34.90.245"
+   ],
+   [
+      "26/10/2021 11:39",
+      "00002",
+      "File: Matrici (2)",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '2465' updated the completion state for the course module with id '18691' for the user with id '2465'.",
+      "web",
+      "87.19.228.224"
+   ],
+   [
+      "24/10/2021 17:38",
+      "00012",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Eliminata valutazione",
+      "The user with id '4921' deleted the grade with id '65821' for the user with id '4921' for the grade item with id '1700'.",
+      "web",
+      "80.116.130.105"
+   ],
+   [
+      "22/10/2021 18:20",
+      "00011",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '759' viewed the course with id '488'.",
+      "web",
+      "93.34.90.245"
+   ],
+   [
+      "22/10/2021 15:31",
+      "00009",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '4685' viewed the course with id '488'.",
+      "web",
+      "93.45.235.52"
+   ],
+   [
+      "22/10/2021 15:06",
+      "00013",
+      "Quiz: Test sulla codifica delle informazioni (I parte)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '4826' has viewed the attempt with id '17244' belonging to the user with id '4826' for the quiz with course module id '19067'.",
+      "web",
+      "78.13.213.13"
+   ],
+   [
+      "22/10/2021 14:55",
+      "00014",
+      "Quiz: Domande sul capitolo 3 (rappresentazione dei numeri interi)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '5822' has viewed the attempt with id '37672' belonging to the user with id '5822' for the quiz with course module id '20388'.",
+      "web",
+      "192.168.104.82"
+   ],
+   [
+      "22/10/2021 14:55",
+      "00014",
+      "Quiz: Domande sul capitolo 3 (rappresentazione dei numeri interi)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '5822' has viewed the attempt with id '37672' belonging to the user with id '5822' for the quiz with course module id '20388'.",
+      "web",
+      "192.168.104.82"
+   ],
+   [
+      "22/10/2021 14:55",
+      "00014",
+      "Quiz: Domande sul capitolo 3 (rappresentazione dei numeri interi)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '5822' has viewed the attempt with id '37672' belonging to the user with id '5822' for the quiz with course module id '20388'.",
+      "web",
+      "192.168.104.82"
+   ],
+   [
+      "20/10/2021 15:48",
+      "00005",
+      "File: Esoneri 2018",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2441' viewed the 'resource' activity with course module id '18697'.",
+      "web",
+      "2.39.115.81"
+   ],
+   [
+      "20/10/2021 15:05",
+      "00005",
+      "File: Esoneri 2014",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2441' viewed the 'resource' activity with course module id '18693'.",
+      "web",
+      "2.39.115.81"
+   ],
+   [
+      "20/10/2021 15:04",
+      "00005",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '2441' viewed the course with id '488'.",
+      "web",
+      "2.39.115.81"
+   ],
+   [
+      "20/10/2021 13:28",
+      "00013",
+      "Quiz: Test sulla codifica delle informazioni (I parte)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '4826' has viewed the attempt with id '17244' belonging to the user with id '4826' for the quiz with course module id '19067'.",
+      "web",
+      "78.13.213.13"
+   ],
+   [
+      "20/10/2021 11:19",
+      "00013",
+      "Quiz: Test sulla codifica delle informazioni (I parte)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '4826' has viewed the attempt with id '17244' belonging to the user with id '4826' for the quiz with course module id '19067'.",
+      "web",
+      "78.13.213.13"
+   ],
+   [
+      "18/10/2021 14:01",
+      "00004",
+      "File: esercizio 2 (svolto)",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2312' viewed the 'resource' activity with course module id '18653'.",
+      "web",
+      "95.246.212.174"
+   ],
+   [
+      "18/10/2021 13:59",
+      "00004",
+      "File: esercizio 1 (svolto)",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '2312' viewed the 'resource' activity with course module id '18656'.",
+      "web",
+      "95.246.212.174"
+   ],
+   [
+      "18/10/2021 13:59",
+      "00004",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '2312' viewed the course with id '488'.",
+      "web",
+      "95.246.212.174"
+   ],
+   [
+      "18/10/2021 13:58",
+      "00008",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '4714' viewed the course with id '488'.",
+      "web",
+      "91.80.1.128"
+   ],
+   [
+      "18/10/2021 13:58",
+      "00008",
+      "File: Slide su ambiente di sviluppo",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '4714' viewed the 'resource' activity with course module id '18670'.",
+      "web",
+      "91.80.1.128"
+   ],
+   [
+      "18/10/2021 13:57",
+      "00008",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '4714' viewed the course with id '488'.",
+      "web",
+      "91.80.1.128"
+   ],
+   [
+      "18/10/2021 13:57",
+      "00008",
+      "File: Dispense complete (Settembre 2020)",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '4714' viewed the 'resource' activity with course module id '18501'.",
+      "web",
+      "91.80.1.128"
+   ],
+   [
+      "18/10/2021 13:57",
+      "00008",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '4714' viewed the course with id '488'.",
+      "web",
+      "91.80.1.128"
+   ],
+   [
+      "18/10/2021 13:52",
+      "00008",
+      "Forum: Announcements",
+      "Forum",
+      "Visualizzato modulo corso",
+      "The user with id '4714' viewed the 'forum' activity with course module id '18498'.",
+      "web",
+      "91.80.1.128"
+   ],
+   [
+      "17/10/2021 18:06",
+      "00015",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '4620' viewed the course with id '488'.",
+      "web",
+      "151.43.185.174"
+   ],
+   [
+      "17/10/2021 13:08",
+      "00001",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '7' viewed the course with id '488'.",
+      "web",
+      "79.19.222.61"
+   ],
+   [
+      "10/12/2020 17:28",
+      "00082",
+      "File: Sovrapposizione di schemi algoritmici",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '4774' updated the completion state for the course module with id '18573' for the user with id '4774'.",
+      "web",
+      "5.90.146.241"
+   ],
+   [
+      "10/12/2020 17:28",
+      "00082",
+      "File: Sovrapposizione di schemi algoritmici",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '4774' updated the completion state for the course module with id '18573' for the user with id '4774'.",
+      "web",
+      "5.90.146.241"
+   ],
+   [
+      "10/12/2020 17:28",
+      "00082",
+      "File: Sovrapposizione di schemi algoritmici",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '4774' viewed the 'resource' activity with course module id '18573'.",
+      "web",
+      "5.90.146.241"
+   ],
+   [
+      "10/12/2020 17:28",
+      "00082",
+      "File: Rappresentazione di liste",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '4774' updated the completion state for the course module with id '18570' for the user with id '4774'.",
+      "web",
+      "5.90.146.241"
+   ],
+   [
+      "10/12/2020 17:27",
+      "00082",
+      "File: Introduzione agli schemi algoritmici",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '4774' updated the completion state for the course module with id '18571' for the user with id '4774'.",
+      "web",
+      "5.90.146.241"
+   ],
+   [
+      "11/11/2020 18:16",
+      "00098",
+      "Quiz: Domande sul capitolo 9 (architettura del calcolatore e linguaggio macchina)",
+      "Quiz",
+      "Avviato tentativo quiz",
+      "The user with id '4942' has started the attempt with id '18511' for the quiz with course module id '20384'.",
+      "web",
+      "151.31.207.174"
+   ],
+   [
+      "11/11/2020 18:16",
+      "00098",
+      "Quiz: Domande sul capitolo 9 (architettura del calcolatore e linguaggio macchina)",
+      "Quiz",
+      "Visualizzato modulo corso",
+      "The user with id '4942' viewed the 'quiz' activity with course module id '20384'.",
+      "web",
+      "151.31.207.174"
+   ],
+   [
+      "23/10/2020 11:58",
+      "00001",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Aggiunto tag ad un elemento",
+      "The user with id '7' added the tag with id '175' to the item type 'question' with id '17389'.",
+      "web",
+      "172.17.16.141"
+   ],
+   [
+      "23/10/2020 11:58",
+      "00001",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Aggiunto tag ad un elemento",
+      "The user with id '7' added the tag with id '175' to the item type 'question' with id '17388'.",
+      "web",
+      "172.17.16.141"
+   ],
+   [
+      "13/10/2020 18:26",
+      "00059",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '4571' has viewed the attempt with id '17354' belonging to the user with id '4571' for the quiz with course module id '18620'.",
+      "web",
+      "95.245.193.245"
+   ],
+   [
+      "13/10/2020 18:24",
+      "00059",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '4571' has viewed the attempt with id '17354' belonging to the user with id '4571' for the quiz with course module id '18620'.",
+      "web",
+      "95.245.193.245"
+   ],
+   [
+      "13/10/2020 18:23",
+      "00059",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '4571' has viewed the attempt with id '17354' belonging to the user with id '4571' for the quiz with course module id '18620'.",
+      "web",
+      "95.245.193.245"
+   ],
+   [
+      "13/10/2020 18:22",
+      "00097",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Quiz",
+      "Effettuata revisione tentativo quiz",
+      "The user with id '4643' has had their attempt with id '17353' reviewed by the user with id '4643' for the quiz with course module id '18620'.",
+      "web",
+      "79.27.128.94"
+   ],
+   [
+      "13/10/2020 18:22",
+      "00097",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Quiz",
+      "Inviato tentativo quiz",
+      "The user with id '4643' has submitted the attempt with id '17353' for the quiz with course module id '18620'.",
+      "web",
+      "79.27.128.94"
+   ],
+   [
+      "13/10/2020 18:22",
+      "00097",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Valutato utente",
+      "The user with id '-1' updated the grade with id '59796' for the user with id '4643' for the grade item with id '1410'.",
+      "web",
+      "79.27.128.94"
+   ],
+   [
+      "13/10/2020 18:22",
+      "00097",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Valutato utente",
+      "The user with id '4643' updated the grade with id '59797' for the user with id '4643' for the grade item with id '1416'.",
+      "web",
+      "79.27.128.94"
+   ],
+   [
+      "13/10/2020 18:22",
+      "00097",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Quiz",
+      "Visualizzato riepilogo del quiz",
+      "The user with id '4643' has viewed the summary for the attempt with id '17353' belonging to the user with id '4643' for the quiz with course module id '18620'.",
+      "web",
+      "79.27.128.94"
+   ],
+   [
+      "13/10/2020 18:22",
+      "00097",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '4643' has viewed the attempt with id '17353' belonging to the user with id '4643' for the quiz with course module id '18620'.",
+      "web",
+      "79.27.128.94"
+   ],
+   [
+      "13/10/2020 18:22",
+      "00059",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '4571' has viewed the attempt with id '17354' belonging to the user with id '4571' for the quiz with course module id '18620'.",
+      "web",
+      "95.245.193.245"
+   ],
+   [
+      "13/10/2020 18:22",
+      "00059",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Quiz",
+      "Avviato tentativo quiz",
+      "The user with id '4571' has started the attempt with id '17354' for the quiz with course module id '18620'.",
+      "web",
+      "95.245.193.245"
+   ],
+   [
+      "13/10/2020 18:22",
+      "00097",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '4643' has viewed the attempt with id '17353' belonging to the user with id '4643' for the quiz with course module id '18620'.",
+      "web",
+      "79.27.128.94"
+   ],
+   [
+      "13/10/2020 18:22",
+      "00059",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Quiz",
+      "Visualizzato modulo corso",
+      "The user with id '4571' viewed the 'quiz' activity with course module id '18620'.",
+      "web",
+      "95.245.193.245"
+   ],
+   [
+      "13/10/2020 18:22",
+      "00059",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '4571' updated the completion state for the course module with id '18620' for the user with id '4571'.",
+      "web",
+      "95.245.193.245"
+   ],
+   [
+      "13/10/2020 18:22",
+      "00059",
+      "File: Video sull'architettura dei calcolatori (il bus di I/O)",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '4571' updated the completion state for the course module with id '18619' for the user with id '4571'.",
+      "web",
+      "95.245.193.245"
+   ],
+   [
+      "13/10/2020 18:22",
+      "00059",
+      "File: Video sull'architettura dei calcolatori (la cache)",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '4571' updated the completion state for the course module with id '18618' for the user with id '4571'.",
+      "web",
+      "95.245.193.245"
+   ],
+   [
+      "13/10/2020 18:21",
+      "00097",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '4643' has viewed the attempt with id '17353' belonging to the user with id '4643' for the quiz with course module id '18620'.",
+      "web",
+      "79.27.128.94"
+   ],
+   [
+      "13/10/2020 18:21",
+      "00097",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '4643' has viewed the attempt with id '17353' belonging to the user with id '4643' for the quiz with course module id '18620'.",
+      "web",
+      "79.27.128.94"
+   ],
+   [
+      "13/10/2020 18:21",
+      "00097",
+      "Quiz: Test su Architettura dei calcolatori (I parte)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '4643' has viewed the attempt with id '17353' belonging to the user with id '4643' for the quiz with course module id '18620'.",
+      "web",
+      "79.27.128.94"
+   ],
+   [
+      "30/09/2020 22:53",
+      "00040",
+      "Quiz: Test sulla codifica delle informazioni (I parte)",
+      "Quiz",
+      "Visualizzato tentativo quiz",
+      "The user with id '4604' has viewed the attempt with id '17181' belonging to the user with id '4604' for the quiz with course module id '19067'.",
+      "web",
+      "109.118.216.229"
+   ],
+   [
+      "29/09/2020 15:37",
+      "00007",
+      "File: Codifica delle informazioni",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '4862' updated the completion state for the course module with id '18538' for the user with id '4862'.",
+      "web",
+      "79.18.212.244"
+   ],
+   [
+      "27/09/2020 22:17",
+      "00035",
+      "File: Codifica delle informazioni",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '4951' viewed the 'resource' activity with course module id '18537'.",
+      "web",
+      "93.35.219.124"
+   ],
+   [
+      "27/09/2020 22:17",
+      "00035",
+      "File: Rappresentazione dei numeri e aritmetica binaria",
+      "Risorsa",
+      "Visualizzato modulo corso",
+      "The user with id '4951' viewed the 'resource' activity with course module id '18541'.",
+      "web",
+      "93.35.219.124"
+   ],
+   [
+      "25/09/2020 15:17",
+      "00025",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Visualizzato corso",
+      "The user with id '4855' viewed the course with id '488'.",
+      "web",
+      "5.168.250.78"
+   ],
+   [
+      "21/09/2020 18:24",
+      "00001",
+      "File: Operazioni aritmetiche sulla rappresentazione binaria dei numeri naturali",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '7' updated the completion state for the course module with id '18543' for the user with id '7'.",
+      "web",
+      "172.17.16.141"
+   ],
+   [
+      "21/09/2020 18:24",
+      "00001",
+      "File: Operazioni aritmetiche sulla rappresentazione binaria dei numeri naturali",
+      "Sistema",
+      "Aggiornato completamento attivit\u00e0 del corso",
+      "The user with id '7' updated the completion state for the course module with id '18543' for the user with id '7'.",
+      "web",
+      "172.17.16.141"
+   ],
+   [
+      "16/09/2020 10:55",
+      "00050",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Creato evento di calendario",
+      "The user with id '2' created the event 'Appello del 16 giugno 2020 - Prova al calcolatore: Traccia B \u00e8 in scadenza' with id '2973'.",
+      "cli",
+      ""
+   ],
+   [
+      "16/09/2020 10:53",
+      "00050",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Aggiunto tag ad un elemento",
+      "The user with id '2' added the tag with id '112' to the item type 'question' with id '16542'.",
+      "restore",
+      "192.168.105.242"
+   ],
+   [
+      "16/09/2020 10:38",
+      "00050",
+      "Corso: Fondamenti di informatica [20-21]",
+      "Sistema",
+      "Creato corso",
+      "The user with id '2' created the course with id '488'.",
+      "web",
+      "192.168.105.242"
+   ]
+]
