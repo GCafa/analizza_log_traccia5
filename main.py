@@ -5,7 +5,7 @@ import argparse
 def parse_args():
 
     parser = argparse.ArgumentParser(description="Analisi log anonimizzati")
-    parser.add_argument("-i", "--input", default="test_data/test_large.json")
+    parser.add_argument("-i", "--input", default="test_data/test_simple.json")
     parser.add_argument("-o", "--output", default="result.json")
     return parser.parse_args()
 
