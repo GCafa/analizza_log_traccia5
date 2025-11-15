@@ -1,0 +1,1534 @@
+{
+    "1/01/2021": {
+        "utenti_distinti": 10,
+        "eventi_distinti": 3
+    },
+    "1/02/2021": {
+        "utenti_distinti": 11,
+        "eventi_distinti": 10
+    },
+    "1/03/2021": {
+        "utenti_distinti": 9,
+        "eventi_distinti": 7
+    },
+    "1/04/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "1/06/2021": {
+        "utenti_distinti": 5,
+        "eventi_distinti": 4
+    },
+    "1/07/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "1/09/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 3
+    },
+    "1/10/2020": {
+        "utenti_distinti": 89,
+        "eventi_distinti": 15
+    },
+    "1/10/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 4
+    },
+    "1/11/2020": {
+        "utenti_distinti": 44,
+        "eventi_distinti": 14
+    },
+    "1/11/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 3
+    },
+    "1/12/2020": {
+        "utenti_distinti": 45,
+        "eventi_distinti": 6
+    },
+    "10/01/2021": {
+        "utenti_distinti": 45,
+        "eventi_distinti": 8
+    },
+    "10/02/2021": {
+        "utenti_distinti": 17,
+        "eventi_distinti": 6
+    },
+    "10/03/2021": {
+        "utenti_distinti": 6,
+        "eventi_distinti": 12
+    },
+    "10/05/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 3
+    },
+    "10/06/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 2
+    },
+    "10/07/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 3
+    },
+    "10/09/2021": {
+        "utenti_distinti": 8,
+        "eventi_distinti": 5
+    },
+    "10/10/2020": {
+        "utenti_distinti": 31,
+        "eventi_distinti": 11
+    },
+    "10/10/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "10/11/2020": {
+        "utenti_distinti": 36,
+        "eventi_distinti": 13
+    },
+    "10/12/2020": {
+        "utenti_distinti": 28,
+        "eventi_distinti": 3
+    },
+    "11/01/2021": {
+        "utenti_distinti": 53,
+        "eventi_distinti": 6
+    },
+    "11/02/2021": {
+        "utenti_distinti": 22,
+        "eventi_distinti": 8
+    },
+    "11/03/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "11/05/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "11/06/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "11/07/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 3
+    },
+    "11/08/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "11/09/2021": {
+        "utenti_distinti": 9,
+        "eventi_distinti": 4
+    },
+    "11/10/2020": {
+        "utenti_distinti": 25,
+        "eventi_distinti": 4
+    },
+    "11/10/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 3
+    },
+    "11/11/2020": {
+        "utenti_distinti": 44,
+        "eventi_distinti": 23
+    },
+    "11/12/2020": {
+        "utenti_distinti": 49,
+        "eventi_distinti": 11
+    },
+    "12/01/2021": {
+        "utenti_distinti": 49,
+        "eventi_distinti": 4
+    },
+    "12/02/2021": {
+        "utenti_distinti": 22,
+        "eventi_distinti": 4
+    },
+    "12/03/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 2
+    },
+    "12/04/2021": {
+        "utenti_distinti": 5,
+        "eventi_distinti": 4
+    },
+    "12/05/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 4
+    },
+    "12/06/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "12/07/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 3
+    },
+    "12/08/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 3
+    },
+    "12/09/2021": {
+        "utenti_distinti": 7,
+        "eventi_distinti": 13
+    },
+    "12/10/2020": {
+        "utenti_distinti": 59,
+        "eventi_distinti": 11
+    },
+    "12/10/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "12/11/2020": {
+        "utenti_distinti": 91,
+        "eventi_distinti": 22
+    },
+    "12/12/2020": {
+        "utenti_distinti": 17,
+        "eventi_distinti": 3
+    },
+    "13/01/2021": {
+        "utenti_distinti": 61,
+        "eventi_distinti": 6
+    },
+    "13/02/2021": {
+        "utenti_distinti": 13,
+        "eventi_distinti": 9
+    },
+    "13/03/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 1
+    },
+    "13/04/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "13/05/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 4
+    },
+    "13/06/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "13/07/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 3
+    },
+    "13/09/2021": {
+        "utenti_distinti": 5,
+        "eventi_distinti": 6
+    },
+    "13/10/2020": {
+        "utenti_distinti": 89,
+        "eventi_distinti": 12
+    },
+    "13/10/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 3
+    },
+    "13/11/2020": {
+        "utenti_distinti": 113,
+        "eventi_distinti": 18
+    },
+    "13/12/2020": {
+        "utenti_distinti": 22,
+        "eventi_distinti": 3
+    },
+    "14/01/2021": {
+        "utenti_distinti": 57,
+        "eventi_distinti": 4
+    },
+    "14/02/2021": {
+        "utenti_distinti": 16,
+        "eventi_distinti": 3
+    },
+    "14/03/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "14/04/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "14/05/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "14/06/2021": {
+        "utenti_distinti": 5,
+        "eventi_distinti": 3
+    },
+    "14/07/2021": {
+        "utenti_distinti": 7,
+        "eventi_distinti": 5
+    },
+    "14/09/2021": {
+        "utenti_distinti": 8,
+        "eventi_distinti": 3
+    },
+    "14/10/2020": {
+        "utenti_distinti": 37,
+        "eventi_distinti": 11
+    },
+    "14/10/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 4
+    },
+    "14/11/2020": {
+        "utenti_distinti": 16,
+        "eventi_distinti": 9
+    },
+    "14/12/2020": {
+        "utenti_distinti": 35,
+        "eventi_distinti": 8
+    },
+    "15/01/2021": {
+        "utenti_distinti": 72,
+        "eventi_distinti": 6
+    },
+    "15/02/2021": {
+        "utenti_distinti": 27,
+        "eventi_distinti": 6
+    },
+    "15/03/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "15/04/2021": {
+        "utenti_distinti": 8,
+        "eventi_distinti": 8
+    },
+    "15/06/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 9
+    },
+    "15/07/2021": {
+        "utenti_distinti": 8,
+        "eventi_distinti": 5
+    },
+    "15/09/2021": {
+        "utenti_distinti": 11,
+        "eventi_distinti": 11
+    },
+    "15/10/2020": {
+        "utenti_distinti": 53,
+        "eventi_distinti": 13
+    },
+    "15/10/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "15/11/2020": {
+        "utenti_distinti": 50,
+        "eventi_distinti": 13
+    },
+    "15/12/2020": {
+        "utenti_distinti": 35,
+        "eventi_distinti": 6
+    },
+    "16/01/2021": {
+        "utenti_distinti": 36,
+        "eventi_distinti": 3
+    },
+    "16/02/2021": {
+        "utenti_distinti": 34,
+        "eventi_distinti": 9
+    },
+    "16/03/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 1
+    },
+    "16/04/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 1
+    },
+    "16/05/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "16/06/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 8
+    },
+    "16/07/2021": {
+        "utenti_distinti": 6,
+        "eventi_distinti": 3
+    },
+    "16/09/2020": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 12
+    },
+    "16/09/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 9
+    },
+    "16/10/2020": {
+        "utenti_distinti": 39,
+        "eventi_distinti": 15
+    },
+    "16/10/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "16/11/2020": {
+        "utenti_distinti": 64,
+        "eventi_distinti": 11
+    },
+    "16/12/2020": {
+        "utenti_distinti": 27,
+        "eventi_distinti": 3
+    },
+    "17/01/2021": {
+        "utenti_distinti": 46,
+        "eventi_distinti": 6
+    },
+    "17/02/2021": {
+        "utenti_distinti": 26,
+        "eventi_distinti": 9
+    },
+    "17/03/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 1
+    },
+    "17/05/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "17/06/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 8
+    },
+    "17/07/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "17/08/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "17/09/2021": {
+        "utenti_distinti": 5,
+        "eventi_distinti": 3
+    },
+    "17/10/2020": {
+        "utenti_distinti": 23,
+        "eventi_distinti": 11
+    },
+    "17/10/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 2
+    },
+    "17/11/2020": {
+        "utenti_distinti": 70,
+        "eventi_distinti": 9
+    },
+    "17/12/2020": {
+        "utenti_distinti": 29,
+        "eventi_distinti": 4
+    },
+    "18/01/2021": {
+        "utenti_distinti": 56,
+        "eventi_distinti": 7
+    },
+    "18/02/2021": {
+        "utenti_distinti": 20,
+        "eventi_distinti": 4
+    },
+    "18/03/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 1
+    },
+    "18/04/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "18/05/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "18/06/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 6
+    },
+    "18/07/2021": {
+        "utenti_distinti": 9,
+        "eventi_distinti": 7
+    },
+    "18/08/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 7
+    },
+    "18/09/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 3
+    },
+    "18/10/2020": {
+        "utenti_distinti": 32,
+        "eventi_distinti": 15
+    },
+    "18/10/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 3
+    },
+    "18/11/2020": {
+        "utenti_distinti": 39,
+        "eventi_distinti": 12
+    },
+    "18/12/2020": {
+        "utenti_distinti": 34,
+        "eventi_distinti": 4
+    },
+    "19/01/2021": {
+        "utenti_distinti": 48,
+        "eventi_distinti": 9
+    },
+    "19/02/2021": {
+        "utenti_distinti": 21,
+        "eventi_distinti": 8
+    },
+    "19/03/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "19/05/2021": {
+        "utenti_distinti": 5,
+        "eventi_distinti": 2
+    },
+    "19/07/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 9
+    },
+    "19/08/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 8
+    },
+    "19/10/2020": {
+        "utenti_distinti": 50,
+        "eventi_distinti": 21
+    },
+    "19/10/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 5
+    },
+    "19/11/2020": {
+        "utenti_distinti": 53,
+        "eventi_distinti": 13
+    },
+    "19/12/2020": {
+        "utenti_distinti": 23,
+        "eventi_distinti": 3
+    },
+    "2/01/2021": {
+        "utenti_distinti": 36,
+        "eventi_distinti": 3
+    },
+    "2/02/2021": {
+        "utenti_distinti": 12,
+        "eventi_distinti": 7
+    },
+    "2/03/2021": {
+        "utenti_distinti": 10,
+        "eventi_distinti": 5
+    },
+    "2/04/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 1
+    },
+    "2/05/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "2/06/2021": {
+        "utenti_distinti": 5,
+        "eventi_distinti": 2
+    },
+    "2/07/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "2/09/2021": {
+        "utenti_distinti": 10,
+        "eventi_distinti": 8
+    },
+    "2/10/2020": {
+        "utenti_distinti": 60,
+        "eventi_distinti": 18
+    },
+    "2/10/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "2/11/2020": {
+        "utenti_distinti": 50,
+        "eventi_distinti": 9
+    },
+    "2/11/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 5
+    },
+    "2/12/2020": {
+        "utenti_distinti": 21,
+        "eventi_distinti": 3
+    },
+    "20/01/2021": {
+        "utenti_distinti": 68,
+        "eventi_distinti": 6
+    },
+    "20/02/2021": {
+        "utenti_distinti": 31,
+        "eventi_distinti": 18
+    },
+    "20/03/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "20/04/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "20/05/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 2
+    },
+    "20/07/2021": {
+        "utenti_distinti": 9,
+        "eventi_distinti": 5
+    },
+    "20/08/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 3
+    },
+    "20/09/2020": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 7
+    },
+    "20/09/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "20/10/2020": {
+        "utenti_distinti": 82,
+        "eventi_distinti": 10
+    },
+    "20/10/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 4
+    },
+    "20/11/2020": {
+        "utenti_distinti": 46,
+        "eventi_distinti": 12
+    },
+    "20/12/2020": {
+        "utenti_distinti": 28,
+        "eventi_distinti": 4
+    },
+    "21/01/2021": {
+        "utenti_distinti": 57,
+        "eventi_distinti": 5
+    },
+    "21/02/2021": {
+        "utenti_distinti": 31,
+        "eventi_distinti": 7
+    },
+    "21/03/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "21/04/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 8
+    },
+    "21/05/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 5
+    },
+    "21/06/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "21/07/2021": {
+        "utenti_distinti": 7,
+        "eventi_distinti": 9
+    },
+    "21/08/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "21/09/2020": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 17
+    },
+    "21/09/2021": {
+        "utenti_distinti": 8,
+        "eventi_distinti": 5
+    },
+    "21/10/2020": {
+        "utenti_distinti": 24,
+        "eventi_distinti": 10
+    },
+    "21/10/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 1
+    },
+    "21/11/2020": {
+        "utenti_distinti": 18,
+        "eventi_distinti": 11
+    },
+    "21/12/2020": {
+        "utenti_distinti": 31,
+        "eventi_distinti": 9
+    },
+    "22/01/2021": {
+        "utenti_distinti": 77,
+        "eventi_distinti": 7
+    },
+    "22/02/2021": {
+        "utenti_distinti": 23,
+        "eventi_distinti": 10
+    },
+    "22/03/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "22/04/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "22/05/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "22/06/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "22/07/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "22/08/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 5
+    },
+    "22/09/2020": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 10
+    },
+    "22/09/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 4
+    },
+    "22/10/2020": {
+        "utenti_distinti": 26,
+        "eventi_distinti": 13
+    },
+    "22/10/2021": {
+        "utenti_distinti": 5,
+        "eventi_distinti": 4
+    },
+    "22/11/2020": {
+        "utenti_distinti": 25,
+        "eventi_distinti": 7
+    },
+    "22/12/2020": {
+        "utenti_distinti": 20,
+        "eventi_distinti": 5
+    },
+    "23/01/2021": {
+        "utenti_distinti": 55,
+        "eventi_distinti": 4
+    },
+    "23/02/2021": {
+        "utenti_distinti": 27,
+        "eventi_distinti": 16
+    },
+    "23/03/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "23/04/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "23/05/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "23/06/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 2
+    },
+    "23/07/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 3
+    },
+    "23/08/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "23/09/2020": {
+        "utenti_distinti": 9,
+        "eventi_distinti": 12
+    },
+    "23/09/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "23/10/2020": {
+        "utenti_distinti": 52,
+        "eventi_distinti": 18
+    },
+    "23/10/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "23/11/2020": {
+        "utenti_distinti": 56,
+        "eventi_distinti": 8
+    },
+    "23/12/2020": {
+        "utenti_distinti": 18,
+        "eventi_distinti": 5
+    },
+    "24/01/2021": {
+        "utenti_distinti": 48,
+        "eventi_distinti": 7
+    },
+    "24/02/2021": {
+        "utenti_distinti": 19,
+        "eventi_distinti": 9
+    },
+    "24/03/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "24/04/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "24/05/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "24/06/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 5
+    },
+    "24/07/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "24/08/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "24/09/2020": {
+        "utenti_distinti": 16,
+        "eventi_distinti": 9
+    },
+    "24/09/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "24/10/2020": {
+        "utenti_distinti": 22,
+        "eventi_distinti": 14
+    },
+    "24/10/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 4
+    },
+    "24/11/2020": {
+        "utenti_distinti": 67,
+        "eventi_distinti": 14
+    },
+    "24/12/2020": {
+        "utenti_distinti": 20,
+        "eventi_distinti": 5
+    },
+    "25/01/2021": {
+        "utenti_distinti": 54,
+        "eventi_distinti": 16
+    },
+    "25/02/2021": {
+        "utenti_distinti": 7,
+        "eventi_distinti": 9
+    },
+    "25/03/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "25/04/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "25/05/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 1
+    },
+    "25/06/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 2
+    },
+    "25/07/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 3
+    },
+    "25/08/2021": {
+        "utenti_distinti": 5,
+        "eventi_distinti": 2
+    },
+    "25/09/2020": {
+        "utenti_distinti": 90,
+        "eventi_distinti": 10
+    },
+    "25/10/2020": {
+        "utenti_distinti": 43,
+        "eventi_distinti": 11
+    },
+    "25/10/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 4
+    },
+    "25/11/2020": {
+        "utenti_distinti": 40,
+        "eventi_distinti": 11
+    },
+    "25/12/2020": {
+        "utenti_distinti": 17,
+        "eventi_distinti": 3
+    },
+    "26/01/2021": {
+        "utenti_distinti": 52,
+        "eventi_distinti": 13
+    },
+    "26/02/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 3
+    },
+    "26/03/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 1
+    },
+    "26/04/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "26/05/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 1
+    },
+    "26/06/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "26/07/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "26/08/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 2
+    },
+    "26/09/2020": {
+        "utenti_distinti": 43,
+        "eventi_distinti": 14
+    },
+    "26/09/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 4
+    },
+    "26/10/2020": {
+        "utenti_distinti": 53,
+        "eventi_distinti": 12
+    },
+    "26/10/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 3
+    },
+    "26/11/2020": {
+        "utenti_distinti": 24,
+        "eventi_distinti": 13
+    },
+    "26/12/2020": {
+        "utenti_distinti": 30,
+        "eventi_distinti": 3
+    },
+    "27/01/2021": {
+        "utenti_distinti": 50,
+        "eventi_distinti": 7
+    },
+    "27/02/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "27/03/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "27/04/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "27/05/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 2
+    },
+    "27/06/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "27/08/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "27/09/2020": {
+        "utenti_distinti": 72,
+        "eventi_distinti": 12
+    },
+    "27/09/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 6
+    },
+    "27/10/2020": {
+        "utenti_distinti": 77,
+        "eventi_distinti": 9
+    },
+    "27/11/2020": {
+        "utenti_distinti": 28,
+        "eventi_distinti": 5
+    },
+    "27/12/2020": {
+        "utenti_distinti": 31,
+        "eventi_distinti": 5
+    },
+    "28/01/2021": {
+        "utenti_distinti": 40,
+        "eventi_distinti": 20
+    },
+    "28/02/2021": {
+        "utenti_distinti": 5,
+        "eventi_distinti": 2
+    },
+    "28/03/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "28/04/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "28/05/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 4
+    },
+    "28/06/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 3
+    },
+    "28/08/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "28/09/2020": {
+        "utenti_distinti": 75,
+        "eventi_distinti": 23
+    },
+    "28/09/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 3
+    },
+    "28/10/2020": {
+        "utenti_distinti": 23,
+        "eventi_distinti": 9
+    },
+    "28/10/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 3
+    },
+    "28/11/2020": {
+        "utenti_distinti": 16,
+        "eventi_distinti": 4
+    },
+    "28/12/2020": {
+        "utenti_distinti": 34,
+        "eventi_distinti": 10
+    },
+    "29/01/2021": {
+        "utenti_distinti": 31,
+        "eventi_distinti": 14
+    },
+    "29/03/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 1
+    },
+    "29/04/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 1
+    },
+    "29/06/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "29/07/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "29/08/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 3
+    },
+    "29/09/2020": {
+        "utenti_distinti": 110,
+        "eventi_distinti": 17
+    },
+    "29/09/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 3
+    },
+    "29/10/2020": {
+        "utenti_distinti": 63,
+        "eventi_distinti": 11
+    },
+    "29/10/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 7
+    },
+    "29/11/2020": {
+        "utenti_distinti": 19,
+        "eventi_distinti": 4
+    },
+    "29/12/2020": {
+        "utenti_distinti": 31,
+        "eventi_distinti": 4
+    },
+    "3/01/2021": {
+        "utenti_distinti": 35,
+        "eventi_distinti": 10
+    },
+    "3/02/2021": {
+        "utenti_distinti": 9,
+        "eventi_distinti": 3
+    },
+    "3/03/2021": {
+        "utenti_distinti": 8,
+        "eventi_distinti": 7
+    },
+    "3/04/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 1
+    },
+    "3/05/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 2
+    },
+    "3/06/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 6
+    },
+    "3/07/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "3/08/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 3
+    },
+    "3/09/2021": {
+        "utenti_distinti": 5,
+        "eventi_distinti": 2
+    },
+    "3/10/2020": {
+        "utenti_distinti": 39,
+        "eventi_distinti": 8
+    },
+    "3/10/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 3
+    },
+    "3/11/2020": {
+        "utenti_distinti": 50,
+        "eventi_distinti": 14
+    },
+    "3/11/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 3
+    },
+    "3/12/2020": {
+        "utenti_distinti": 27,
+        "eventi_distinti": 4
+    },
+    "30/01/2021": {
+        "utenti_distinti": 6,
+        "eventi_distinti": 3
+    },
+    "30/03/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "30/04/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 5
+    },
+    "30/05/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 1
+    },
+    "30/07/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 3
+    },
+    "30/08/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 3
+    },
+    "30/09/2020": {
+        "utenti_distinti": 36,
+        "eventi_distinti": 11
+    },
+    "30/09/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "30/10/2020": {
+        "utenti_distinti": 41,
+        "eventi_distinti": 13
+    },
+    "30/10/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 10
+    },
+    "30/11/2020": {
+        "utenti_distinti": 40,
+        "eventi_distinti": 9
+    },
+    "30/12/2020": {
+        "utenti_distinti": 35,
+        "eventi_distinti": 5
+    },
+    "31/01/2021": {
+        "utenti_distinti": 13,
+        "eventi_distinti": 8
+    },
+    "31/03/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "31/05/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "31/08/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 3
+    },
+    "31/10/2020": {
+        "utenti_distinti": 24,
+        "eventi_distinti": 10
+    },
+    "31/10/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 6
+    },
+    "31/12/2020": {
+        "utenti_distinti": 21,
+        "eventi_distinti": 3
+    },
+    "4/01/2021": {
+        "utenti_distinti": 41,
+        "eventi_distinti": 7
+    },
+    "4/02/2021": {
+        "utenti_distinti": 11,
+        "eventi_distinti": 3
+    },
+    "4/03/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 5
+    },
+    "4/05/2021": {
+        "utenti_distinti": 7,
+        "eventi_distinti": 3
+    },
+    "4/06/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 2
+    },
+    "4/07/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "4/08/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "4/09/2021": {
+        "utenti_distinti": 5,
+        "eventi_distinti": 3
+    },
+    "4/10/2020": {
+        "utenti_distinti": 29,
+        "eventi_distinti": 11
+    },
+    "4/10/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 4
+    },
+    "4/11/2020": {
+        "utenti_distinti": 49,
+        "eventi_distinti": 9
+    },
+    "4/12/2020": {
+        "utenti_distinti": 38,
+        "eventi_distinti": 4
+    },
+    "5/01/2021": {
+        "utenti_distinti": 36,
+        "eventi_distinti": 9
+    },
+    "5/02/2021": {
+        "utenti_distinti": 9,
+        "eventi_distinti": 8
+    },
+    "5/03/2021": {
+        "utenti_distinti": 6,
+        "eventi_distinti": 6
+    },
+    "5/05/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 5
+    },
+    "5/06/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 7
+    },
+    "5/07/2021": {
+        "utenti_distinti": 6,
+        "eventi_distinti": 3
+    },
+    "5/08/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "5/09/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 4
+    },
+    "5/10/2020": {
+        "utenti_distinti": 76,
+        "eventi_distinti": 11
+    },
+    "5/10/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "5/11/2020": {
+        "utenti_distinti": 35,
+        "eventi_distinti": 13
+    },
+    "5/12/2020": {
+        "utenti_distinti": 20,
+        "eventi_distinti": 3
+    },
+    "6/01/2021": {
+        "utenti_distinti": 28,
+        "eventi_distinti": 5
+    },
+    "6/02/2021": {
+        "utenti_distinti": 6,
+        "eventi_distinti": 2
+    },
+    "6/03/2021": {
+        "utenti_distinti": 7,
+        "eventi_distinti": 2
+    },
+    "6/05/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 1
+    },
+    "6/06/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "6/07/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 7
+    },
+    "6/08/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "6/09/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 10
+    },
+    "6/10/2020": {
+        "utenti_distinti": 99,
+        "eventi_distinti": 20
+    },
+    "6/10/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 4
+    },
+    "6/11/2020": {
+        "utenti_distinti": 42,
+        "eventi_distinti": 12
+    },
+    "6/12/2020": {
+        "utenti_distinti": 24,
+        "eventi_distinti": 7
+    },
+    "7/01/2021": {
+        "utenti_distinti": 34,
+        "eventi_distinti": 5
+    },
+    "7/02/2021": {
+        "utenti_distinti": 5,
+        "eventi_distinti": 2
+    },
+    "7/03/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 2
+    },
+    "7/04/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 2
+    },
+    "7/06/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 2
+    },
+    "7/07/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 3
+    },
+    "7/08/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "7/09/2021": {
+        "utenti_distinti": 6,
+        "eventi_distinti": 6
+    },
+    "7/10/2020": {
+        "utenti_distinti": 40,
+        "eventi_distinti": 5
+    },
+    "7/10/2021": {
+        "utenti_distinti": 2,
+        "eventi_distinti": 4
+    },
+    "7/11/2020": {
+        "utenti_distinti": 27,
+        "eventi_distinti": 11
+    },
+    "7/12/2020": {
+        "utenti_distinti": 37,
+        "eventi_distinti": 6
+    },
+    "8/01/2021": {
+        "utenti_distinti": 39,
+        "eventi_distinti": 12
+    },
+    "8/02/2021": {
+        "utenti_distinti": 13,
+        "eventi_distinti": 6
+    },
+    "8/03/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 3
+    },
+    "8/04/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "8/05/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "8/06/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "8/07/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 3
+    },
+    "8/09/2021": {
+        "utenti_distinti": 7,
+        "eventi_distinti": 4
+    },
+    "8/10/2020": {
+        "utenti_distinti": 68,
+        "eventi_distinti": 13
+    },
+    "8/10/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 9
+    },
+    "8/11/2020": {
+        "utenti_distinti": 39,
+        "eventi_distinti": 10
+    },
+    "8/12/2020": {
+        "utenti_distinti": 23,
+        "eventi_distinti": 5
+    },
+    "9/01/2021": {
+        "utenti_distinti": 40,
+        "eventi_distinti": 5
+    },
+    "9/02/2021": {
+        "utenti_distinti": 15,
+        "eventi_distinti": 8
+    },
+    "9/03/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 4
+    },
+    "9/04/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 1
+    },
+    "9/05/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 5
+    },
+    "9/06/2021": {
+        "utenti_distinti": 5,
+        "eventi_distinti": 3
+    },
+    "9/07/2021": {
+        "utenti_distinti": 4,
+        "eventi_distinti": 3
+    },
+    "9/08/2021": {
+        "utenti_distinti": 1,
+        "eventi_distinti": 2
+    },
+    "9/09/2021": {
+        "utenti_distinti": 11,
+        "eventi_distinti": 6
+    },
+    "9/10/2020": {
+        "utenti_distinti": 61,
+        "eventi_distinti": 6
+    },
+    "9/10/2021": {
+        "utenti_distinti": 3,
+        "eventi_distinti": 9
+    },
+    "9/11/2020": {
+        "utenti_distinti": 48,
+        "eventi_distinti": 12
+    },
+    "9/12/2020": {
+        "utenti_distinti": 17,
+        "eventi_distinti": 4
+    }
+}
